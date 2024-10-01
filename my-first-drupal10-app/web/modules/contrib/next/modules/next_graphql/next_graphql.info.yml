@@ -1,0 +1,14 @@
+name: 'Next.js GraphQL'
+type: module
+description: 'GraphQL for Next.js'
+core_version_requirement: ^9 || ^10
+package: Web services
+dependencies:
+  - graphql:graphql
+  - graphql_compose:graphql_compose
+  - next:next
+
+# Information added by Drupal.org packaging script on 2024-04-30
+version: '2.0.0-beta0'
+project: 'next'
+datestamp: 1714457225
